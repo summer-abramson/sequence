@@ -10,3 +10,4 @@ stat_spreadsheets
 dc1
 dc_circuits
 charge
+% Idea: Use electron configuration as challenge for coding in python
